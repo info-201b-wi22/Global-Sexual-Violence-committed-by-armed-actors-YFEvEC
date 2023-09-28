@@ -2,7 +2,7 @@ library(ggplot2)
 library(plotly)
 library(dplyr)
 
-dataset <- read.csv("https://raw.githubusercontent.com/info-201b-wi22/final-project-ayun124/main/data.csv?token=GHSAT0AAAAAABQJR2LQD2M47GUNHWNGWZXUYRSR7OA")
+dataset <- read.csv("https://github.com/info-201b-wi22/final-project-YFEvEC/blob/main/data.csv")
 
 
 
